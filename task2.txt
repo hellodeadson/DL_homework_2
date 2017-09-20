@@ -1,4 +1,4 @@
-((\s|<)(?!OF)(O|o).\S*@.\S*?(com|org))
+((\s|<)(?!OF)(O|o).\S*@.\S*?(com|org|net))
 31
 To: outlook.team@enron.com
 To: outlook.team@enron.com
